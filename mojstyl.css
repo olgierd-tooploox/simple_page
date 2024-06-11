@@ -1,0 +1,30 @@
+article {
+    border: 4px double #003800;
+    padding: 0;
+    width: 570px;
+}
+
+p.tytul {
+    background-color: #008d00;
+    color: #ffffe9;
+    padding: 10px;
+    width: 550px;
+    font-size: 16pt;
+    font-family: "Times New Roman";
+}
+
+p.common-style {
+    width: 550px;
+    font-size: 12pt;
+    font-family: arial;
+    padding: 10px;
+    margin: 0;
+}
+
+p.first {
+    color: #0000ff;
+}
+
+p.second {
+    color: #ff0000;
+}
